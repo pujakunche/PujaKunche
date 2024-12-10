@@ -1,0 +1,13 @@
+.listTrueFalse{
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+    border: 10px double pink;
+}
+.subHeader{
+    color: blueviolet;
+}
+.mainHeader{
+     color: aqua;
+     text-align: center;
+}
